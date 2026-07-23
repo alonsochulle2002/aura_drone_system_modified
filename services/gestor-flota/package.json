@@ -5,6 +5,7 @@
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
+    "lab:consensus": "node src/consensus-lab-alonso.js",
     "test": "node --test"
   },
   "dependencies": {

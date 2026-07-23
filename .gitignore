@@ -13,6 +13,8 @@ docs/*
 !docs/pc3-respuestas.md
 !docs/unidad-3-backlog.md
 !docs/GESTION SID 2026 I.pdf
+!docs/Plan_Implementacion_AURA*.md
+!docs/guia-defensa-*.md
 
 # Environment and secrets
 .env
